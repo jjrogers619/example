@@ -1,0 +1,16 @@
+html{
+    background-image: url("./media/usaBack.jpg");
+    background-repeat: no-repeat;
+
+}
+body{
+    margin: 20px auto;
+}
+section{
+    margin-left: 350px;
+}
+.size{
+
+    height: 900px;
+    width: 650px;
+}
