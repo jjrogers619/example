@@ -1,0 +1,38 @@
+html{
+    background-image: url("./media/volleybeachStar.jpg");
+    background-repeat: no-repeat;
+
+
+}
+body{
+    margin: 11px auto;
+    min-height: 550px;
+    width: 800px;
+    border: double sandybrown;
+
+}
+section{
+    text-align: center;
+
+}
+section h2:first-child{
+    color: darkgreen;
+}
+aside {
+    margin-left: 200px;
+
+
+
+}
+aside p:first-letter{
+    color:red;
+}
+aside .brazilSize{
+    width: 400px;
+    height: 400px;
+
+}
+.yellowLetter{
+    color: yellow;
+    text-decoration: none;
+}
